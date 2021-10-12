@@ -5,13 +5,14 @@ RDS Aurora - Schedule Add / Delete Reader Node with Lambda Function and CloudWat
 
 First step, I create Lambda Function "Add-Node.py"
 
+![GitHub Logo](/images/Add-Node.png)
+
 import time
 import boto3
 import botocore
 
 def lambda_handler(event, context):
     rds = boto3.client('rds')
-
     rds.create_db_instance(
         DBParameterGroupName='default.aurora-mysql5.7',
         Engine='aurora-mysql',
