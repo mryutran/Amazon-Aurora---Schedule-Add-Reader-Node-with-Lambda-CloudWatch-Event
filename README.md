@@ -1,1 +1,1 @@
-# Amazon-Aurora---Schedule-Add-Reader-Node-with-Lambda-CloudWatch-Event
+RDS Aurora - Schedule Add Reader Node with Lambda and CloudWatch Event
