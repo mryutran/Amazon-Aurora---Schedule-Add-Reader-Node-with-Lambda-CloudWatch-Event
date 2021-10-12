@@ -5,7 +5,7 @@ RDS Aurora - Schedule Add / Delete Reader Node with Lambda Function and CloudWat
 
 First step, I create Lambda Function "Add-Node.py"
 
-![GitHub Logo](/images/Add-Node.png)
+![GitHub Logo](https://github.com/mryutran/RDS-Aurora-Schedule-Add-Delete-Reader-Node/blob/main/Add-Node.png)
 
 import time
 import boto3
