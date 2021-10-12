@@ -1,1 +1,1 @@
-RDS Aurora - Schedule Add Reader Node with Lambda and CloudWatch Event
+RDS Aurora - Schedule Add / Delete Reader Node with Lambda Function and CloudWatch Event
