@@ -1,5 +1,8 @@
 # RDS Aurora - Schedule Add / Delete Reader Node with Lambda Function and CloudWatch Event
 
+## Attach the below policy to the Lambda function.
+
+![GitHub Logo](https://github.com/mryutran/RDS-Aurora-Schedule-Add-Delete-Reader-Node/blob/main/Policy.png)
 
 ## Add Reader Node
 
